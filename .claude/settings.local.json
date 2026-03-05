@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__sequential-thinking__sequentialthinking",
+      "Bash(ls not:*)",
+      "WebFetch(domain:docs.anthropic.com)",
+      "WebFetch(domain:docs.obsidian.md)",
+      "WebSearch"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "sequential-thinking"
+  ]
+}
